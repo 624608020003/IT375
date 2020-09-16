@@ -1,5 +1,5 @@
 const cm = require('./ownmodules');
-const myuser = require('./mymodule');
+const myuser = require('./mymodules');
 const express = require('express');
 const app = express();
 
